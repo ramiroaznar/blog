@@ -15,6 +15,7 @@ Last week I experimented with [Handsfree](https://handsfree.js.org/), a JS libra
   </iframe>
 </div>
 
+<br>
 This library allows you to get the coordinates of the different vertixes in your hand structure, thus getting the tip and bottom position from the index finger could give you the information about where it is pointing.
 
 ```javascript
@@ -61,6 +62,7 @@ In this second example, you can zoom in or out based on the bounding box of your
   </iframe>
 </div>
 
+<br>
 The app calculates the length of the diagonal from the two coordinates of the bounding box of the user hand:
 
 ```javascript
