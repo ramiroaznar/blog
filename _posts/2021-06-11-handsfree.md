@@ -49,6 +49,7 @@ if (tipY < bottomY) {
 
 ![south-handsfree](https://github.com/ramiroaznar/blog/blob/master/assets/imgs/2021-06-11-south.gif?raw=true)
 
+<br>
 In this second example, you can zoom in or out based on the bounding box of your hand. If it is a fist ✊, it will zoom in. If your hand is open ✋, it will zoom out.
 
 <div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
