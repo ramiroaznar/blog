@@ -15,10 +15,12 @@ Last week I experimented with [Handsfree](https://handsfree.js.org/), a JS libra
   </iframe>
 </div>
 
-![north-handsfree](https://github.com/ramiroaznar/blog/blob/master/assets/imgs/2021-06-11-north?raw=true)
+<br>
+![north-handsfree](https://github.com/ramiroaznar/blog/blob/master/assets/imgs/2021-06-11-north.gif?raw=true)
 
-![south-handsfree](https://github.com/ramiroaznar/blog/blob/master/assets/imgs/2021-06-11-south?raw=true)
+![south-handsfree](https://github.com/ramiroaznar/blog/blob/master/assets/imgs/2021-06-11-south.gif?raw=true)
 
+<br>
 In this second example, you can zoom in or out based on the bounding box of your hand. If it is a fist ✊, it will zoom in. If your hand is open ✋, it will zoom out.
 
 <div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
@@ -30,4 +32,6 @@ In this second example, you can zoom in or out based on the bounding box of your
   </iframe>
 </div>
 
-![zoom-handsfree](https://github.com/ramiroaznar/blog/blob/master/assets/imgs/2021-06-11-zoom?raw=true)
+<br>
+
+![zoom-handsfree](https://github.com/ramiroaznar/blog/blob/master/assets/imgs/2021-06-11-zoom.gif?raw=true)
